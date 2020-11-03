@@ -9,9 +9,10 @@
 
 
 header {
-    padding: 150px;
+    padding: 50px 0px;
     background-color: rgb(54, 151, 175);
     color: white;
+   
 
 }
 
@@ -22,11 +23,13 @@ h3 {
 
 h1 {
     font-size: 500%;
+    margin-left: 10%;
 }
 
 h2 {
     font-size: 200%;
     font-style: italic;
+    margin-left:10%;
 
 }
 
@@ -35,10 +38,14 @@ h3 {
 }
 
 nav {
-    padding: 25px 0px 0px 150px;
+    
+    padding: 25px 0px 0px 0px;
     background: #ccc;
     height: 50px;
 }
+
+nav ul {
+    margin-left:10%;}
 
 nav li {
     float: left;
@@ -60,9 +67,9 @@ nav a:hover {
 
 
 main {
-    width: 1020px;
+    width: 50%;
     float: left;
-    margin-left: 150px;
+    margin-left: 10%;
     padding: 10px 0px 50px 10px;
 
 }
@@ -73,13 +80,13 @@ blockquote {
 }
 
 p {
-    padding: 20px 0px aspx 10px;
+    padding: 20px 0px 10px 10px;
 }
 
 aside {
-    width: 440px;
+    width: 25%;
     float: right;
-    margin-right: 200px;
+    margin-right: 10%;
     padding: 10px 0px 25px 10px;
 
 
